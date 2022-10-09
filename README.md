@@ -2,7 +2,6 @@
 Project connecting 3 branches.
 <br />
 Protocols Used:
-<br />
 - VLAN
 - IoT
 - HTTP - DNS 
