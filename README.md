@@ -1,1 +1,13 @@
 # Cisco-Project
+Project connecting 3 branches.
+Protocols Used:
+VLAN
+IoT
+HTTP - DNS
+VPN
+FTP SERVER (ONLY THE ADMIN CAN SEND FTP)
+ACL
+EMAIL SERVER
+DHCP SERVER
+RIP
+AAA
